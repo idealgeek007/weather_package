@@ -1,7 +1,7 @@
-name: weather_package
-description: "A new Flutter project."
+name: weather_package_nj
+description: "weather module to get weather of a location."
 version: 0.0.1
-homepage:
+repository: https://github.com/idealgeek007/weather_package.git
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
